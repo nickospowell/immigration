@@ -1,0 +1,64 @@
+---
+title: "Immigration"
+author: "Nicholas Oliver Silveira Powell"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: false
+#| warning: false
+library(tidyverse)
+library(tidybayes)
+library(brms)
+library(gtsummary)
+library(plotly)
+
+x <- read_csv("data/Visa_data.csv")
+x <- x |> mutate(Number = as.integer(Number)) |> drop_na() |> select(Country, Number) |> 
+  group_by(Country) |> 
+  summarize(Number = sum(Number, na.rm = TRUE)) 
+x$Country <- factor(x$Country)
+levels_country <- levels(x$Country)
+
+```
+
+```{r}
+#| label: data
+#| warning: false
+#| cache: true
+
+
+
+fit_immigration <- brm(formula = Number ~ Country, data = x, family = gaussian(), silent = 2, refresh = 0, seed = 2, iter = 3000,  # Increase the number of iterations
+  warmup = 1000)
+```
+
+```{r}
+#| label: table
+#tbl_regression(fit_immigration)
+
+```
+
+```{r}
+
+Country <- factor(c("Albania", "Algeria", "Angola", "AntiguaandBarbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "BosniaandHerzegovina", "Botswana", "Brazil", "BritishVirginIslands", "Bulgaria", "BurkinaFaso", "Burma", "Burundi", "CaboVerde", "Cambodia", "Cameroon", "Canada", "CaymanIslands", "CentralAfricanRepublic", "Chad", "Chile", "ChinaMMainland", "ChinaMTaiwan", "Colombia", "Comoros", "Congo", "CostaRica", "CotedIvoire", "Croatia", "Cuba", "Curacao", "Cyprus", "CzechRepublic", "Denmark", "Djibouti", "Dominica", "DominicanRepublic", "Ecuador", "Egypt", "ElSalvador", "EquatorialGuinea", "Eritrea", "Estonia", "Ethiopia", "Fiji", "Finland", "France", "Gabon", "GambiaThe", "Georgia", "Germany", "Ghana", "GreatBritainandNorthernIreland", "Greece", "Grenada", "Guatemala", "Guinea", "GuineaMBissau", "Guyana", "Haiti", "Honduras", "HongKong", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "KoreaSouth", "Kosovo", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Liberia", "Libya", "Lithuania", "Luxembourg", "Macau", "Macedonia", "Malawi", "Malaysia", "Mali", "Malta", "Mauritania", "Mauritius", "Mexico", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "NewZealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Panama", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda", "SaintKittsandNevis", "SaintLucia", "SaintMartin", "SaintVincentandtheGrenadines", "Samoa", "SaudiArabia", "Senegal", "Serbia", "SierraLeone", "Singapore", "SintMaarten", "Slovakia", "Somalia", "SouthAfrica", "SouthSudan", "Spain", "SriLanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tonga", "TrinidadandTobago", "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine", "UnitedArabEmirates", "Uruguay", "Uzbekistan", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"), levels = levels_country)
+
+ndata <- expand_grid(Country)
+ndata_small <- ndata %>% slice(1:20) 
+
+
+plot <- fit_immigration |> add_epred_draws(newdata = ndata) |>
+  ggplot(aes(x = Country, y = .epred, fill = Country)) + geom_bar(stat = "identity", position = "dodge")+ 
+  theme(legend.position = "none") +  
+  labs(x = "Country", y = "Predicted Value", title = "Predicted Values by Country") 
+  
+
+plot
+
+#ggplotly(plot, tooltip = c("x")) 
+```
+
+$$y_{i} = \beta_{0} + \beta_{1} country_i + \epsilon_{i} $$
