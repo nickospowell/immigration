@@ -1,0 +1,8 @@
+---
+title: "Sources"
+format: html
+---
+
+The data from this project were pulled from the US census bureau. To clean the data, many changes were made to the formatting in order to make it more readable for R. Information on the type of Visa given out was omitted. The data is stored in its own directory in the project.
+
+The data contains more than 2000 lines on different immigration visas across almost 200 countries. The immigration statistics were fitted in order to make a model and a few values were dropped due to having no data. Generative AI assisted in the creation of this project. All data and data fitting was done by humans.
