@@ -62,4 +62,4 @@ plot
 ```
 
 
-The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data was then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is displayed here.
+The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data were then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is displayed here. I modeled an probability variable, a function of the origin of the person asking for the Visa. Different places from all around the world have different acceptance rates for visas.
