@@ -6,4 +6,4 @@ I am Nicholas Oliver Silveira Powell, A data scientist doing research on immigra
 
 This project shows US Visas given out to different people all around the world. https://github.com/nickospowell/immigration
 
-This project was created as a part of Kane's Data Science Bootcamp https://bootcamp.davidkane.info/.\
+This project was created as a part of Kane's Data Science Bootcamp https://bootcamp.davidkane.info/.
