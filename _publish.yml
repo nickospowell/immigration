@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: a8099e3f-82fe-4c90-94fb-3b984ac23ad2
+      url: 'https://nosp41.quarto.pub/immigration'

@@ -156,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<p>The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data was then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is displayed here.</p>
+<p>The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data were then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is displayed here. I modeled an probability variable, a function of the origin of the person asking for the Visa. Different places from all around the world have different acceptance rates for visas.</p>
 
 
 
@@ -242,7 +242,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/47247239-9bf1-42f5-8758-80649e2371a5\.netlify\.app\/");
+      var filterRegex = new RegExp("https:\/\/a8099e3f-82fe-4c90-94fb-3b984ac23ad2\.netlify\.app\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
