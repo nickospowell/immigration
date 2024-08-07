@@ -1,0 +1,2439 @@
+Country,Type,Number
+Afghanistan,CR1,11
+Afghanistan,DV1,2
+Afghanistan,DV2,1
+Afghanistan,F31,1
+Afghanistan,F41,1
+Afghanistan,FX1,6
+Afghanistan,FX2,4
+Afghanistan,FX3,4
+Afghanistan,IR1,4
+Afghanistan,IR2,4
+Afghanistan,IR5,22
+Afghanistan,SQ1,411
+Afghanistan,SQ2,354
+Afghanistan,SQ3,879
+Albania,CR1,18
+Albania,DV1,108
+Albania,DV2,67
+Albania,DV3,64
+Albania,F11,3
+Albania,F21,3
+Albania,F24,3
+Albania,F31,3
+Albania,F32,2
+Albania,F33,4
+Albania,F41,16
+Albania,F42,14
+Albania,F43,19
+Albania,FX1,3
+Albania,FX2,2
+Albania,FX3,3
+Albania,IR1,5
+Albania,IR2,1
+Albania,IR5,86
+Albania,SE1,5
+Albania,SE2,5
+Albania,SE3,7
+Algeria,CR1,16
+Algeria,CR2,1
+Algeria,DV1,76
+Algeria,DV2,28
+Algeria,DV3,20
+Algeria,F21,1
+Algeria,F43,1
+Algeria,FX1,5
+Algeria,IR1,6
+Algeria,IR2,2
+Algeria,IR5,3
+Algeria,SE1,1
+Algeria,SE2,1
+Algeria,SE3,2
+Angola,F11,1
+Angola,IR1,2
+Antigua and Barbuda,F11,2
+Antigua and Barbuda,F12,2
+Antigua and Barbuda,F41,4
+Antigua and Barbuda,F42,2
+Antigua and Barbuda,F43,1
+Antigua and Barbuda,IB3,2
+Antigua and Barbuda,IR1,2
+Antigua and Barbuda,IR2,5
+Antigua and Barbuda,IR5,5
+Argentina,CR1,9
+Argentina,CR2,1
+Argentina,E14,1
+Argentina,F11,2
+Argentina,F12,1
+Argentina,F21,2
+Argentina,F22,1
+Argentina,FX2,1
+Argentina,I51,1
+Argentina,I52,1
+Argentina,I53,2
+Argentina,IR1,4
+Argentina,IR2,2
+Argentina,IR5,8
+Argentina,SB1,1
+Armenia,CR1,9
+Armenia,DV1,104
+Armenia,DV2,68
+Armenia,DV3,110
+Armenia,E11,2
+Armenia,E14,1
+Armenia,E15,1
+Armenia,F11,2
+Armenia,F21,4
+Armenia,F22,6
+Armenia,F24,4
+Armenia,F33,1
+Armenia,FX1,2
+Armenia,FX2,1
+Armenia,IR1,7
+Armenia,IR2,1
+Armenia,IR3,1
+Armenia,IR5,39
+Armenia,SE1,3
+Armenia,SE2,3
+Armenia,SE3,7
+Aruba,F25,1
+Aruba,IR5,1
+Australia,CR1,7
+Australia,DV1,18
+Australia,DV2,5
+Australia,DV3,4
+Australia,E11,1
+Australia,F43,3
+Australia,IR1,17
+Australia,IR2,7
+Australia,SB1,1
+Austria,DV1,2
+Austria,DV2,1
+Austria,E31,1
+Austria,E35,1
+Austria,F43,1
+Austria,IR1,1
+Azerbaijan,CR1,2
+Azerbaijan,DV1,17
+Azerbaijan,DV2,14
+Azerbaijan,DV3,9
+Azerbaijan,E21,1
+Azerbaijan,E23,1
+Azerbaijan,F21,1
+Azerbaijan,F31,1
+Azerbaijan,F32,1
+Azerbaijan,F41,1
+Azerbaijan,IR1,2
+Azerbaijan,IR5,10
+Bahamas,CR1,2
+Bahamas,E31,1
+Bahamas,FX2,1
+Bahamas,IR1,3
+Bahamas,IR2,2
+Bahamas,IR5,9
+Bahrain,CR1,1
+Bahrain,IR1,1
+Bahrain,IR5,1
+Bangladesh,CR1,94
+Bangladesh,F11,4
+Bangladesh,F21,44
+Bangladesh,F22,12
+Bangladesh,F23,10
+Bangladesh,F24,9
+Bangladesh,F31,8
+Bangladesh,F32,8
+Bangladesh,F33,12
+Bangladesh,F41,99
+Bangladesh,F42,88
+Bangladesh,F43,172
+Bangladesh,FX1,28
+Bangladesh,FX2,7
+Bangladesh,FX3,12
+Bangladesh,IR1,61
+Bangladesh,IR2,23
+Bangladesh,IR5,282
+Bangladesh,SB1,1
+Bangladesh,SE1,2
+Bangladesh,SE2,2
+Bangladesh,SE3,2
+Barbados,CR2,1
+Barbados,E31,1
+Barbados,E34,1
+Barbados,E35,2
+Barbados,F11,2
+Barbados,F21,1
+Barbados,F33,1
+Barbados,FX1,1
+Barbados,FX2,2
+Barbados,IR2,2
+Barbados,IR5,4
+Belarus,CR1,5
+Belarus,DV1,51
+Belarus,DV2,39
+Belarus,DV3,29
+Belarus,F21,1
+Belarus,F31,1
+Belarus,F41,2
+Belarus,F42,1
+Belarus,F43,2
+Belarus,FX2,2
+Belarus,IR1,1
+Belarus,IR2,2
+Belarus,IR5,12
+Belgium,CR1,2
+Belgium,DV1,1
+Belgium,DV2,1
+Belgium,DV3,1
+Belgium,E11,1
+Belgium,F11,1
+Belgium,F12,2
+Belgium,IR1,1
+Belize,CR1,3
+Belize,F24,1
+Belize,F31,1
+Belize,F32,1
+Belize,F33,2
+Belize,F43,1
+Belize,IR1,8
+Belize,IR2,7
+Belize,IR5,2
+Benin,CR1,3
+Benin,DV1,14
+Benin,DV2,2
+Benin,DV3,1
+Benin,F22,1
+Benin,F41,1
+Benin,F43,2
+Benin,IR1,2
+Benin,IR2,9
+Bermuda,FX1,1
+Bermuda,IR1,1
+Bermuda,IR5,1
+Bhutan,IR1,1
+Bolivia,CR1,5
+Bolivia,CR2,4
+Bolivia,DV1,1
+Bolivia,E35,2
+Bolivia,F11,4
+Bolivia,F21,4
+Bolivia,F22,3
+Bolivia,F23,3
+Bolivia,F41,1
+Bolivia,F43,2
+Bolivia,IR1,7
+Bolivia,IR2,4
+Bolivia,IR5,19
+Bosnia and Herzegovina,CR1,3
+Bosnia and Herzegovina,DV1,1
+Bosnia and Herzegovina,DV2,3
+Bosnia and Herzegovina,F11,1
+Bosnia and Herzegovina,F12,2
+Bosnia and Herzegovina,F21,1
+Bosnia and Herzegovina,F31,1
+Bosnia and Herzegovina,F41,2
+Bosnia and Herzegovina,F42,1
+Bosnia and Herzegovina,F43,4
+Bosnia and Herzegovina,FX1,1
+Bosnia and Herzegovina,FX2,1
+Bosnia and Herzegovina,IR1,1
+Bosnia and Herzegovina,IR5,1
+Botswana,E34,1
+Brazil,CR1,37
+Brazil,CR2,5
+Brazil,E11,2
+Brazil,E14,2
+Brazil,E15,4
+Brazil,E31,2
+Brazil,E32,1
+Brazil,E34,1
+Brazil,E35,1
+Brazil,F11,6
+Brazil,F12,5
+Brazil,F24,6
+Brazil,F25,3
+Brazil,F31,1
+Brazil,F32,1
+Brazil,F33,2
+Brazil,F41,5
+Brazil,F42,3
+Brazil,F43,2
+Brazil,FX1,5
+Brazil,FX2,4
+Brazil,FX3,2
+Brazil,IB2,1
+Brazil,IH3,3
+Brazil,IR1,107
+Brazil,IR2,41
+Brazil,IR5,57
+Brazil,IW1,1
+Brazil,SB1,3
+British Virgin Islands,F12,1
+Bulgaria,CR1,3
+Bulgaria,DV1,23
+Bulgaria,DV2,15
+Bulgaria,DV3,19
+Bulgaria,E11,1
+Bulgaria,E14,1
+Bulgaria,E15,1
+Bulgaria,F31,1
+Bulgaria,F33,1
+Bulgaria,F41,1
+Bulgaria,F42,1
+Bulgaria,IH3,11
+Bulgaria,IR1,3
+Bulgaria,IR5,12
+Burkina Faso,CR1,2
+Burkina Faso,DV1,10
+Burkina Faso,DV2,1
+Burkina Faso,F11,1
+Burkina Faso,IH3,1
+Burkina Faso,IR2,1
+Burkina Faso,IR2,4
+Burkina Faso,IR5,1
+Burkina Faso,SE1,1
+Burma,CR1,9
+Burma,DV1,3
+Burma,DV2,1
+Burma,F11,3
+Burma,F21,4
+Burma,F22,2
+Burma,F24,4
+Burma,F31,1
+Burma,F32,1
+Burma,F41,14
+Burma,F42,7
+Burma,F43,23
+Burma,FX1,3
+Burma,FX2,1
+Burma,IR1,9
+Burma,IR2,7
+Burma,IR5,26
+Burundi,DV1,3
+Burundi,IR1,1
+Cabo Verde,CR1,3
+Cabo Verde,CR2,9
+Cabo Verde,F11,18
+Cabo Verde,F12,27
+Cabo Verde,F21,2
+Cabo Verde,F22,4
+Cabo Verde,F23,6
+Cabo Verde,F24,22
+Cabo Verde,F25,30
+Cabo Verde,F32,1
+Cabo Verde,F41,2
+Cabo Verde,F42,1
+Cabo Verde,F43,1
+Cabo Verde,FX1,2
+Cabo Verde,FX2,5
+Cabo Verde,FX3,5
+Cabo Verde,IR1,3
+Cabo Verde,IR2,11
+Cabo Verde,IR5,37
+Cambodia,CR1,36
+Cambodia,CR2,5
+Cambodia,DV1,6
+Cambodia,DV2,2
+Cambodia,DV3,1
+Cambodia,EW3,2
+Cambodia,F11,6
+Cambodia,F21,8
+Cambodia,F22,7
+Cambodia,F23,2
+Cambodia,F24,6
+Cambodia,F25,2
+Cambodia,F31,4
+Cambodia,F32,4
+Cambodia,F33,7
+Cambodia,F41,8
+Cambodia,F42,10
+Cambodia,F43,18
+Cambodia,FX1,8
+Cambodia,FX2,6
+Cambodia,FX3,4
+Cambodia,IR1,31
+Cambodia,IR2,33
+Cambodia,IR5,172
+Cambodia,SD1,1
+Cameroon,CR1,16
+Cameroon,CR2,3
+Cameroon,DV1,116
+Cameroon,DV2,23
+Cameroon,DV3,46
+Cameroon,E32,1
+Cameroon,F11,1
+Cameroon,F12,1
+Cameroon,F21,11
+Cameroon,F22,12
+Cameroon,F23,3
+Cameroon,F24,2
+Cameroon,F41,1
+Cameroon,FX1,9
+Cameroon,FX2,4
+Cameroon,FX3,3
+Cameroon,IR1,9
+Cameroon,IR2,30
+Cameroon,IR3,3
+Cameroon,IR5,26
+Canada,CR1,38
+Canada,CR2,2
+Canada,E11,6
+Canada,E13,1
+Canada,E14,1
+Canada,E15,4
+Canada,E21,1
+Canada,E22,2
+Canada,E23,1
+Canada,E35,1
+Canada,F11,2
+Canada,F12,2
+Canada,F22,1
+Canada,F24,3
+Canada,F25,1
+Canada,F33,2
+Canada,F41,1
+Canada,F42,1
+Canada,F43,9
+Canada,FX1,1
+Canada,FX2,5
+Canada,FX3,4
+Canada,IR1,30
+Canada,IR2,22
+Canada,IR5,8
+Canada,SB1,1
+Cayman Islands,IR2,1
+Cayman Islands,IR5,1
+Central African Republic,FX1,1
+Central African Republic,FX3,1
+Central African Republic,IR2,1
+Chad,DV1,1
+Chile,CR1,1
+Chile,E14,1
+Chile,F11,1
+Chile,F21,2
+Chile,F22,1
+Chile,F24,1
+Chile,IR1,2
+Chile,IR2,2
+China-Mainland,C21,1
+China-Mainland,C51,1
+China-Mainland,C53,2
+China-Mainland,CR1,141
+China-Mainland,CR2,23
+China-Mainland,E11,27
+China-Mainland,E13,1
+China-Mainland,E14,24
+China-Mainland,E15,18
+China-Mainland,E21,5
+China-Mainland,E22,6
+China-Mainland,E23,6
+China-Mainland,E31,15
+China-Mainland,E34,15
+China-Mainland,E35,19
+China-Mainland,EW3,3
+China-Mainland,EW4,4
+China-Mainland,EW5,2
+China-Mainland,F11,36
+China-Mainland,F12,20
+China-Mainland,F21,110
+China-Mainland,F22,44
+China-Mainland,F23,7
+China-Mainland,F24,62
+China-Mainland,F25,11
+China-Mainland,F31,44
+China-Mainland,F32,45
+China-Mainland,F33,52
+China-Mainland,F41,294
+China-Mainland,F42,254
+China-Mainland,F43,232
+China-Mainland,FX1,95
+China-Mainland,FX2,52
+China-Mainland,FX3,5
+China-Mainland,I51,288
+China-Mainland,I52,197
+China-Mainland,I53,333
+China-Mainland,IH3,219
+China-Mainland,IR1,139
+China-Mainland,IR2,45
+China-Mainland,IR5,595
+China-Mainland,IW1,1
+China-Mainland,SB1,3
+China-Mainland,T51,5
+China-Mainland,T52,2
+China-Mainland,T53,6
+China-Taiwan,CR1,4
+China-Taiwan,DV1,9
+China-Taiwan,DV2,4
+China-Taiwan,DV3,2
+China-Taiwan,E13,1
+China-Taiwan,E21,3
+China-Taiwan,E22,3
+China-Taiwan,E23,2
+China-Taiwan,F11,1
+China-Taiwan,F24,2
+China-Taiwan,F31,5
+China-Taiwan,F32,6
+China-Taiwan,F33,6
+China-Taiwan,F41,8
+China-Taiwan,F42,5
+China-Taiwan,F43,10
+China-Taiwan,FX1,2
+China-Taiwan,FX2,1
+China-Taiwan,FX3,1
+China-Taiwan,I51,6
+China-Taiwan,I52,1
+China-Taiwan,I53,9
+China-Taiwan,IR1,5
+China-Taiwan,IR2,3
+China-Taiwan,IR3,3
+China-Taiwan,IR5,11
+China-Taiwan,SB1,1
+Colombia,CR1,83
+Colombia,CR2,34
+Colombia,E35,1
+Colombia,F11,24
+Colombia,F12,11
+Colombia,F21,14
+Colombia,F22,12
+Colombia,F23,7
+Colombia,F24,16
+Colombia,F25,3
+Colombia,F31,10
+Colombia,F32,8
+Colombia,F33,8
+Colombia,F41,20
+Colombia,F42,9
+Colombia,F43,17
+Colombia,FX1,11
+Colombia,FX2,11
+Colombia,FX3,7
+Colombia,IH3,24
+Colombia,IR1,72
+Colombia,IR2,86
+Colombia,IR5,113
+Colombia,IW1,1
+Colombia,SB1,4
+Comoros,DV1,1
+Congo,CR1,6
+Congo,DV1,127
+Congo,DV2,63
+Congo,DV3,103
+Congo,F21,7
+Congo,F22,5
+Congo,FX1,2
+Congo,FX2,5
+Congo,IR1,2
+Congo,IR2,8
+Congo,IR3,3
+Congo,IR5,11
+Congo,CR1,1
+Congo,F21,2
+Congo,IR2,1
+Congo,IR5,1
+Costa Rica,CR1,7
+Costa Rica,CR2,2
+Costa Rica,F41,1
+Costa Rica,F43,1
+Costa Rica,FX2,4
+Costa Rica,IR1,18
+Costa Rica,IR2,6
+Costa Rica,IR5,4
+Cote d'Ivoire,CR1,7
+Cote d'Ivoire,DV1,47
+Cote d'Ivoire,DV2,11
+Cote d'Ivoire,DV3,7
+Cote d'Ivoire,F11,1
+Cote d'Ivoire,F12,1
+Cote d'Ivoire,F21,2
+Cote d'Ivoire,F22,4
+Cote d'Ivoire,F24,3
+Cote d'Ivoire,F25,2
+Cote d'Ivoire,F41,4
+Cote d'Ivoire,F42,1
+Cote d'Ivoire,F43,7
+Cote d'Ivoire,FX1,2
+Cote d'Ivoire,FX2,1
+Cote d'Ivoire,FX3,1
+Cote d'Ivoire,IR1,4
+Cote d'Ivoire,IR2,13
+Cote d'Ivoire,IR5,10
+Croatia,DV1,3
+Croatia,F11,1
+Croatia,F31,1
+Croatia,F32,1
+Croatia,IR5,1
+Cuba,CR1,51
+Cuba,CR2,9
+Cuba,DV1,10
+Cuba,DV2,6
+Cuba,DV3,7
+Cuba,F11,2
+Cuba,F21,66
+Cuba,F22,45
+Cuba,F23,45
+Cuba,F24,3
+Cuba,F25,1
+Cuba,F31,1
+Cuba,F32,3
+Cuba,F33,3
+Cuba,FX1,98
+Cuba,FX2,61
+Cuba,FX3,84
+Cuba,IR1,13
+Cuba,IR2,60
+Cuba,IR5,310
+Cuba,IW1,1
+Cuba,SB1,3
+Curacao,IR5,1
+Cyprus,DV1,1
+Cyprus,DV2,1
+Cyprus,FX2,1
+Cyprus,IR5,2
+Cyprus,SK2,1
+Czech Republic,CR1,5
+Czech Republic,CR2,1
+Czech Republic,F11,1
+Czech Republic,F21,1
+Czech Republic,IR1,1
+Denmark,CR1,4
+Denmark,DV2,1
+Denmark,IR1,4
+Djibouti,DV1,1
+Djibouti,IR1,1
+Dominica,CR1,2
+Dominica,F11,5
+Dominica,F12,2
+Dominica,F24,1
+Dominica,F31,1
+Dominica,F32,1
+Dominica,F33,1
+Dominica,F42,1
+Dominica,FX2,1
+Dominica,IR1,3
+Dominica,IR2,4
+Dominica,IR3,1
+Dominica,IR5,5
+Dominican Republic,CR1,416
+Dominican Republic,CR2,172
+Dominican Republic,F11,174
+Dominican Republic,F12,199
+Dominican Republic,F21,281
+Dominican Republic,F22,121
+Dominican Republic,F23,161
+Dominican Republic,F24,372
+Dominican Republic,F25,484
+Dominican Republic,F31,19
+Dominican Republic,F32,18
+Dominican Republic,F33,28
+Dominican Republic,F41,57
+Dominican Republic,F42,23
+Dominican Republic,F43,73
+Dominican Republic,FX1,302
+Dominican Republic,FX2,171
+Dominican Republic,FX3,266
+Dominican Republic,IB3,3
+Dominican Republic,IR1,304
+Dominican Republic,IR2,458
+Dominican Republic,IR5,553
+Dominican Republic,IW1,2
+Dominican Republic,IW2,2
+Dominican Republic,SB1,3
+Dominican Republic,SE1,1
+Dominican Republic,SE2,1
+Ecuador,CR1,29
+Ecuador,CR2,18
+Ecuador,E23,2
+Ecuador,E34,1
+Ecuador,F11,15
+Ecuador,F12,12
+Ecuador,F21,10
+Ecuador,F22,4
+Ecuador,F23,9
+Ecuador,F24,20
+Ecuador,F25,27
+Ecuador,F31,8
+Ecuador,F32,5
+Ecuador,F33,10
+Ecuador,F41,13
+Ecuador,F42,8
+Ecuador,F43,21
+Ecuador,FX1,13
+Ecuador,FX2,4
+Ecuador,FX3,10
+Ecuador,IB3,4
+Ecuador,IR1,121
+Ecuador,IR2,45
+Ecuador,IR5,97
+Ecuador,IW1,1
+Ecuador,SB1,3
+Egypt,CR1,44
+Egypt,DV1,121
+Egypt,DV2,81
+Egypt,DV3,145
+Egypt,E21,1
+Egypt,E23,2
+Egypt,F11,2
+Egypt,F21,7
+Egypt,F22,16
+Egypt,F24,4
+Egypt,F25,3
+Egypt,F31,6
+Egypt,F32,6
+Egypt,F33,12
+Egypt,F41,14
+Egypt,F42,10
+Egypt,F43,19
+Egypt,FX1,5
+Egypt,FX2,11
+Egypt,IR1,57
+Egypt,IR2,53
+Egypt,IR5,92
+El Salvador,B22,1
+El Salvador,B23,1
+El Salvador,CR1,77
+El Salvador,CR2,38
+El Salvador,E35,2
+El Salvador,EW3,2
+El Salvador,EW4,1
+El Salvador,EW5,2
+El Salvador,F11,53
+El Salvador,F12,39
+El Salvador,F21,39
+El Salvador,F22,14
+El Salvador,F23,11
+El Salvador,F24,70
+El Salvador,F25,75
+El Salvador,F31,14
+El Salvador,F32,13
+El Salvador,F33,22
+El Salvador,F41,29
+El Salvador,F42,15
+El Salvador,F43,33
+El Salvador,FX1,66
+El Salvador,FX2,75
+El Salvador,FX3,57
+El Salvador,IB3,3
+El Salvador,IH3,2
+El Salvador,IR1,281
+El Salvador,IR2,175
+El Salvador,IR5,161
+El Salvador,IW1,2
+El Salvador,IW2,2
+El Salvador,SD1,1
+Equatorial Guinea,IR2,1
+Eritrea,CR1,15
+Eritrea,CR2,1
+Eritrea,DV1,7
+Eritrea,DV2,3
+Eritrea,DV3,5
+Eritrea,F11,3
+Eritrea,F21,3
+Eritrea,F22,3
+Eritrea,F24,2
+Eritrea,FX1,6
+Eritrea,FX2,5
+Eritrea,IR1,14
+Eritrea,IR2,5
+Eritrea,IR4,1
+Eritrea,IR5,7
+Eritrea,SE2,1
+Estonia,CR1,1
+Estonia,CR2,2
+Estonia,F11,1
+Estonia,F12,1
+Ethiopia,CR1,79
+Ethiopia,CR2,6
+Ethiopia,DV1,219
+Ethiopia,DV2,40
+Ethiopia,DV3,51
+Ethiopia,F11,9
+Ethiopia,F21,20
+Ethiopia,F22,37
+Ethiopia,F24,17
+Ethiopia,F41,6
+Ethiopia,F42,1
+Ethiopia,F43,2
+Ethiopia,FX1,25
+Ethiopia,FX2,60
+Ethiopia,IR1,55
+Ethiopia,IR2,53
+Ethiopia,IR3,31
+Ethiopia,IR5,100
+Ethiopia,SE3,1
+Fiji,CR1,2
+Fiji,DV1,7
+Fiji,DV2,6
+Fiji,DV3,7
+Fiji,F11,1
+Fiji,F31,6
+Fiji,F32,5
+Fiji,F33,6
+Fiji,F41,2
+Fiji,F42,2
+Fiji,F43,2
+Fiji,IR1,2
+Fiji,IR5,5
+Finland,DV1,2
+Finland,DV2,2
+France,CR1,15
+France,DV1,9
+France,DV2,4
+France,DV3,2
+France,F11,1
+France,F12,1
+France,F21,1
+France,F22,2
+France,F33,1
+France,FX1,1
+France,FX3,1
+France,IR1,19
+France,IR2,7
+France,IR5,4
+France,SR2,1
+Gabon,DV1,1
+Gabon,DV2,1
+Gabon,F33,2
+Gambia The,CR1,2
+Gambia The,DV1,2
+Gambia The,F22,3
+Gambia The,FX1,1
+Gambia The,FX2,4
+Gambia The,IR1,3
+Gambia The,IR2,14
+Gambia The,IR5,14
+Georgia,CR1,5
+Georgia,CR2,1
+Georgia,DV1,35
+Georgia,DV2,18
+Georgia,DV3,24
+Georgia,F22,1
+Georgia,FX1,2
+Georgia,FX2,2
+Georgia,FX3,1
+Georgia,IB3,1
+Georgia,IR1,5
+Georgia,IR2,8
+Georgia,IR5,12
+Germany,CR1,29
+Germany,CR2,1
+Germany,DV1,18
+Germany,DV2,10
+Germany,DV3,11
+Germany,E11,3
+Germany,E14,2
+Germany,E22,1
+Germany,F24,1
+Germany,F32,1
+Germany,F33,4
+Germany,F43,2
+Germany,FX1,1
+Germany,IR1,35
+Germany,IR2,9
+Germany,IR5,4
+Germany,SB1,1
+Germany,SQ3,1
+Ghana,CR1,32
+Ghana,CR2,5
+Ghana,DV1,94
+Ghana,DV2,11
+Ghana,DV3,10
+Ghana,F11,17
+Ghana,F12,9
+Ghana,F21,12
+Ghana,F22,14
+Ghana,F23,4
+Ghana,F24,1
+Ghana,F25,1
+Ghana,F31,2
+Ghana,F32,1
+Ghana,F33,6
+Ghana,F43,2
+Ghana,FX1,14
+Ghana,FX2,35
+Ghana,FX3,12
+Ghana,IR1,35
+Ghana,IR2,155
+Ghana,IR3,2
+Ghana,IR5,78
+Ghana,SB1,2
+Great Britain and Northern Ireland,CR1,44
+Great Britain and Northern Ireland,CR2,2
+Great Britain and Northern Ireland,E11,3
+Great Britain and Northern Ireland,E14,2
+Great Britain and Northern Ireland,E15,3
+Great Britain and Northern Ireland,E31,2
+Great Britain and Northern Ireland,E34,3
+Great Britain and Northern Ireland,E35,8
+Great Britain and Northern Ireland,F11,2
+Great Britain and Northern Ireland,F21,2
+Great Britain and Northern Ireland,F24,1
+Great Britain and Northern Ireland,F33,2
+Great Britain and Northern Ireland,F41,7
+Great Britain and Northern Ireland,F42,3
+Great Britain and Northern Ireland,F43,9
+Great Britain and Northern Ireland,FX1,3
+Great Britain and Northern Ireland,FX2,1
+Great Britain and Northern Ireland,FX3,3
+Great Britain and Northern Ireland,IB1,1
+Great Britain and Northern Ireland,IH3,3
+Great Britain and Northern Ireland,IR1,68
+Great Britain and Northern Ireland,IR2,15
+Great Britain and Northern Ireland,IR5,10
+Great Britain and Northern Ireland,SB1,4
+Great Britain and Northern Ireland,SR1,1
+Greece,CR1,2
+Greece,DV1,2
+Greece,DV2,1
+Greece,DV3,7
+Greece,E31,1
+Greece,F33,1
+Greece,F41,1
+Greece,F42,1
+Greece,F43,4
+Greece,FX1,1
+Greece,I51,1
+Greece,I52,1
+Greece,IR1,9
+Greece,IR2,7
+Greece,IR5,1
+Grenada,F11,3
+Grenada,F12,1
+Grenada,F24,1
+Grenada,F41,1
+Grenada,FX1,1
+Grenada,IR1,5
+Grenada,IR2,5
+Grenada,IR5,5
+Guatemala,CR1,41
+Guatemala,CR2,2
+Guatemala,DV1,1
+Guatemala,F11,7
+Guatemala,F12,13
+Guatemala,F21,16
+Guatemala,F22,19
+Guatemala,F23,11
+Guatemala,F24,17
+Guatemala,F25,6
+Guatemala,F31,1
+Guatemala,F32,1
+Guatemala,F33,3
+Guatemala,F41,9
+Guatemala,F42,2
+Guatemala,F43,11
+Guatemala,FX1,16
+Guatemala,FX2,28
+Guatemala,FX3,15
+Guatemala,IR1,210
+Guatemala,IR2,69
+Guatemala,IR5,47
+Guatemala,SU3,1
+Guinea,CR1,3
+Guinea,DV1,16
+Guinea,DV2,4
+Guinea,DV3,7
+Guinea,F22,3
+Guinea,FX1,2
+Guinea,FX2,3
+Guinea,IR1,5
+Guinea,IR2,16
+Guinea,IR5,20
+Guinea-Bissau,F11,2
+Guinea-Bissau,F12,1
+Guinea-Bissau,FX3,2
+Guyana,CR1,21
+Guyana,CR2,7
+Guyana,E31,1
+Guyana,F11,36
+Guyana,F12,44
+Guyana,F21,14
+Guyana,F22,6
+Guyana,F23,6
+Guyana,F24,15
+Guyana,F25,16
+Guyana,F31,13
+Guyana,F32,14
+Guyana,F33,15
+Guyana,F41,11
+Guyana,F42,2
+Guyana,F43,4
+Guyana,FX1,16
+Guyana,FX2,4
+Guyana,FX3,5
+Guyana,IR1,23
+Guyana,IR2,34
+Guyana,IR3,1
+Guyana,IR5,60
+Haiti,CR1,95
+Haiti,CR2,31
+Haiti,E31,1
+Haiti,E34,1
+Haiti,F11,67
+Haiti,F12,49
+Haiti,F21,22
+Haiti,F22,24
+Haiti,F23,6
+Haiti,F24,118
+Haiti,F25,105
+Haiti,F31,7
+Haiti,F32,7
+Haiti,F33,12
+Haiti,F41,47
+Haiti,F42,13
+Haiti,F43,48
+Haiti,FX1,97
+Haiti,FX2,90
+Haiti,FX3,65
+Haiti,IB3,3
+Haiti,IH3,5
+Haiti,IR1,181
+Haiti,IR2,231
+Haiti,IR3,11
+Haiti,IR5,284
+Haiti,SB1,5
+Haiti,SE1,3
+Haiti,SE2,3
+Haiti,SE3,4
+Honduras,CR1,22
+Honduras,CR2,9
+Honduras,DV1,1
+Honduras,DV2,1
+Honduras,EW5,1
+Honduras,F11,9
+Honduras,F12,18
+Honduras,F21,4
+Honduras,F22,5
+Honduras,F23,2
+Honduras,F24,6
+Honduras,F25,5
+Honduras,F31,4
+Honduras,F32,2
+Honduras,F33,7
+Honduras,F41,6
+Honduras,F42,4
+Honduras,F43,11
+Honduras,FX1,9
+Honduras,FX2,13
+Honduras,FX3,5
+Honduras,IR1,135
+Honduras,IR2,75
+Honduras,IR3,1
+Honduras,IR5,43
+Honduras,IW1,1
+Honduras,IW2,2
+Hong Kong,CR1,7
+Hong Kong,CR2,1
+Hong Kong,EW3,1
+Hong Kong,F11,3
+Hong Kong,F12,2
+Hong Kong,F21,1
+Hong Kong,F24,1
+Hong Kong,F31,3
+Hong Kong,F32,2
+Hong Kong,F33,4
+Hong Kong,F41,16
+Hong Kong,F42,13
+Hong Kong,F43,28
+Hong Kong,FX1,1
+Hong Kong,FX2,1
+Hong Kong,FX3,1
+Hong Kong,IR1,8
+Hong Kong,IR2,2
+Hong Kong,IR5,8
+Hungary,CR1,1
+Hungary,DV1,4
+Hungary,DV2,3
+Hungary,DV3,1
+Hungary,F24,1
+Hungary,F25,1
+Hungary,F41,1
+Hungary,F42,1
+Hungary,F43,1
+Hungary,FX2,1
+Hungary,IH3,3
+Hungary,IR1,3
+Hungary,IR5,1
+Iceland,CR1,2
+Iceland,DV1,1
+Iceland,DV2,1
+Iceland,DV3,1
+India,CR1,330
+India,CR2,7
+India,E11,1
+India,E14,1
+India,E15,2
+India,E21,2
+India,E22,2
+India,E23,1
+India,E31,4
+India,E34,8
+India,E35,8
+India,EW4,1
+India,F11,13
+India,F12,9
+India,F21,78
+India,F22,10
+India,F23,2
+India,F24,16
+India,F31,90
+India,F32,87
+India,F33,142
+India,F41,336
+India,F42,312
+India,F43,445
+India,FX1,59
+India,FX2,13
+India,FX3,9
+India,I51,2
+India,I52,2
+India,I53,1
+India,IH3,13
+India,IR1,73
+India,IR2,33
+India,IR5,602
+India,SB1,19
+India,SD2,1
+India,SD3,3
+India,SE1,4
+India,SE2,3
+India,SE3,6
+India,SQ3,1
+India,SR2,1
+India,SR3,2
+India,T51,1
+Indonesia,CR1,7
+Indonesia,CR2,2
+Indonesia,F24,1
+Indonesia,F31,1
+Indonesia,F32,1
+Indonesia,F33,1
+Indonesia,F41,3
+Indonesia,F42,2
+Indonesia,F43,5
+Indonesia,FX1,2
+Indonesia,FX2,1
+Indonesia,IR1,7
+Indonesia,IR2,1
+Indonesia,IR5,13
+Indonesia,SB1,2
+Iran,C53,1
+Iran,CR1,12
+Iran,CR2,3
+Iran,DV1,91
+Iran,DV2,16
+Iran,DV3,35
+Iran,E11,2
+Iran,E15,1
+Iran,E21,5
+Iran,E22,5
+Iran,E23,1
+Iran,F11,19
+Iran,F21,8
+Iran,F24,8
+Iran,F31,8
+Iran,F32,5
+Iran,F33,8
+Iran,F41,26
+Iran,F42,12
+Iran,F43,17
+Iran,FX1,10
+Iran,FX2,2
+Iran,I51,1
+Iran,I52,1
+Iran,IR1,11
+Iran,IR2,5
+Iran,IR5,76
+Iran,SB1,4
+Iraq,CR1,18
+Iraq,DV1,2
+Iraq,DV1,1
+Iraq,DV2,1
+Iraq,F11,1
+Iraq,F12,1
+Iraq,F21,1
+Iraq,F22,2
+Iraq,F24,2
+Iraq,F31,2
+Iraq,F33,1
+Iraq,F41,2
+Iraq,FX1,5
+Iraq,FX2,1
+Iraq,IR1,8
+Iraq,IR2,1
+Iraq,IR5,35
+Iraq,SQ1,39
+Iraq,SQ2,37
+Iraq,SQ3,77
+Ireland,CR1,2
+Ireland,DV1,1
+Ireland,DV2,1
+Ireland,DV3,2
+Ireland,F41,1
+Ireland,F43,2
+Ireland,IR1,3
+Israel,CR1,5
+Israel,DV1,2
+Israel,E11,1
+Israel,E14,1
+Israel,E32,1
+Israel,F11,2
+Israel,F24,1
+Israel,F31,1
+Israel,F32,1
+Israel,F33,5
+Israel,F41,2
+Israel,FX1,2
+Israel,FX2,1
+Israel,FX3,2
+Israel,IR1,7
+Israel,IR2,3
+Israel,IR5,15
+Israel,SR1,1
+Israel,SR3,6
+Italy,CR1,11
+Italy,CR2,1
+Italy,DV1,8
+Italy,DV2,3
+Italy,DV3,4
+Italy,E11,1
+Italy,E14,1
+Italy,E15,3
+Italy,E21,1
+Italy,E22,1
+Italy,E23,1
+Italy,E31,1
+Italy,E34,1
+Italy,E35,2
+Italy,F21,3
+Italy,F22,1
+Italy,F23,2
+Italy,F24,1
+Italy,F43,3
+Italy,FX1,2
+Italy,FX2,1
+Italy,IR1,13
+Italy,IR2,4
+Italy,IR5,5
+Jamaica,CR1,88
+Jamaica,CR2,58
+Jamaica,E31,15
+Jamaica,E34,11
+Jamaica,E35,17
+Jamaica,F11,85
+Jamaica,F12,97
+Jamaica,F21,22
+Jamaica,F22,46
+Jamaica,F23,14
+Jamaica,F24,29
+Jamaica,F25,30
+Jamaica,F31,31
+Jamaica,F32,25
+Jamaica,F33,41
+Jamaica,F41,28
+Jamaica,F42,5
+Jamaica,F43,16
+Jamaica,FX1,17
+Jamaica,FX2,55
+Jamaica,FX3,11
+Jamaica,IB3,4
+Jamaica,IR1,104
+Jamaica,IR2,271
+Jamaica,IR4,3
+Jamaica,IR5,193
+Jamaica,IW1,3
+Jamaica,IW2,2
+Jamaica,SB1,3
+Jamaica,SE1,1
+Japan,CR1,37
+Japan,CR2,6
+Japan,DV1,3
+Japan,DV2,1
+Japan,DV3,2
+Japan,E12,1
+Japan,E14,1
+Japan,E15,2
+Japan,E31,2
+Japan,E34,1
+Japan,E35,1
+Japan,F21,1
+Japan,F23,1
+Japan,F31,1
+Japan,F32,1
+Japan,F41,1
+Japan,FX1,4
+Japan,FX2,3
+Japan,FX3,1
+Japan,I51,1
+Japan,I52,1
+Japan,I53,2
+Japan,IR1,44
+Japan,IR2,9
+Japan,IR4,2
+Japan,IR5,5
+Japan,IW1,1
+Japan,SB1,3
+Jordan,CR1,70
+Jordan,CR2,2
+Jordan,DV1,3
+Jordan,DV2,2
+Jordan,DV3,2
+Jordan,E22,1
+Jordan,E23,1
+Jordan,E31,1
+Jordan,E34,2
+Jordan,E35,2
+Jordan,F11,4
+Jordan,F21,4
+Jordan,F22,1
+Jordan,F23,3
+Jordan,F24,5
+Jordan,F25,2
+Jordan,F31,10
+Jordan,F32,9
+Jordan,F33,50
+Jordan,F41,13
+Jordan,F42,11
+Jordan,F43,24
+Jordan,FX1,6
+Jordan,FX2,18
+Jordan,FX3,6
+Jordan,IR1,47
+Jordan,IR2,72
+Jordan,IR5,72
+Jordan,SB1,1
+Jordan,SE1,1
+Jordan,SE2,1
+Jordan,SE3,1
+Kazakhstan,CR1,3
+Kazakhstan,CR2,1
+Kazakhstan,DV1,25
+Kazakhstan,DV2,17
+Kazakhstan,DV3,30
+Kazakhstan,F24,1
+Kazakhstan,F31,1
+Kazakhstan,F32,1
+Kazakhstan,F33,2
+Kazakhstan,F41,1
+Kazakhstan,F42,1
+Kazakhstan,F43,3
+Kazakhstan,IR1,2
+Kazakhstan,IR2,1
+Kazakhstan,IR5,2
+Kazakhstan,SE1,1
+Kenya,CR1,17
+Kenya,DV1,78
+Kenya,DV2,15
+Kenya,DV3,33
+Kenya,E14,1
+Kenya,E15,2
+Kenya,E31,6
+Kenya,E34,1
+Kenya,E35,6
+Kenya,F11,5
+Kenya,F12,4
+Kenya,F21,2
+Kenya,F22,3
+Kenya,F24,1
+Kenya,F31,1
+Kenya,F32,1
+Kenya,F33,1
+Kenya,F41,4
+Kenya,F42,2
+Kenya,F43,2
+Kenya,FX1,2
+Kenya,FX2,9
+Kenya,IR1,23
+Kenya,IR2,72
+Kenya,IR5,54
+Kenya,SE1,1
+Kenya,SE3,2
+Korea South,CR1,52
+Korea South,CR2,2
+Korea South,E11,6
+Korea South,E14,7
+Korea South,E15,9
+Korea South,E21,29
+Korea South,E22,35
+Korea South,E23,45
+Korea South,E31,12
+Korea South,E32,2
+Korea South,E34,6
+Korea South,E35,11
+Korea South,EW3,11
+Korea South,EW4,8
+Korea South,EW5,10
+Korea South,F11,10
+Korea South,F12,4
+Korea South,F21,3
+Korea South,F22,1
+Korea South,F23,1
+Korea South,F24,1
+Korea South,F31,6
+Korea South,F32,10
+Korea South,F33,9
+Korea South,F41,20
+Korea South,F42,11
+Korea South,F43,16
+Korea South,I51,4
+Korea South,I52,4
+Korea South,I53,7
+Korea South,IR1,53
+Korea South,IR2,5
+Korea South,IR3,23
+Korea South,IR5,17
+Korea South,SB1,3
+Korea South,SD2,1
+Kosovo,CR1,5
+Kosovo,DV1,9
+Kosovo,DV2,3
+Kosovo,DV3,2
+Kosovo,F21,2
+Kosovo,F24,1
+Kosovo,F42,1
+Kosovo,FX1,3
+Kosovo,FX3,1
+Kosovo,IR1,3
+Kosovo,IR2,2
+Kosovo,IR5,9
+Kuwait,CR1,7
+Kuwait,CR2,1
+Kuwait,E21,1
+Kuwait,E22,1
+Kuwait,E23,3
+Kuwait,E31,1
+Kuwait,F11,1
+Kuwait,F31,3
+Kuwait,F32,2
+Kuwait,FX1,2
+Kuwait,IR1,5
+Kuwait,IR2,2
+Kuwait,IR5,5
+Kuwait,SB1,1
+Kyrgyzstan,CR1,1
+Kyrgyzstan,CR2,2
+Kyrgyzstan,DV1,9
+Kyrgyzstan,DV2,3
+Kyrgyzstan,DV3,2
+Kyrgyzstan,F21,1
+Kyrgyzstan,FX2,1
+Kyrgyzstan,IR2,1
+Kyrgyzstan,IR4,2
+Kyrgyzstan,IR5,5
+Laos,CR1,1
+Laos,F11,1
+Laos,F22,3
+Laos,FX2,3
+Laos,IR1,1
+Laos,IR2,4
+Laos,IR5,4
+Laos,SE1,1
+Laos,SE2,1
+Laos,SE3,1
+Latvia,CR1,1
+Latvia,F11,1
+Latvia,FX1,1
+Latvia,IH3,14
+Latvia,IR5,1
+Lebanon,CR1,20
+Lebanon,DV1,3
+Lebanon,DV2,2
+Lebanon,DV3,1
+Lebanon,E21,1
+Lebanon,E23,2
+Lebanon,E31,1
+Lebanon,E34,2
+Lebanon,E35,2
+Lebanon,F11,4
+Lebanon,F12,2
+Lebanon,F24,3
+Lebanon,F31,6
+Lebanon,F32,7
+Lebanon,F33,12
+Lebanon,F41,11
+Lebanon,F42,3
+Lebanon,F43,9
+Lebanon,FX1,5
+Lebanon,FX2,4
+Lebanon,FX3,4
+Lebanon,IR1,20
+Lebanon,IR2,16
+Lebanon,IR5,33
+Lebanon,SK1,1
+Liberia,CR1,14
+Liberia,CR2,8
+Liberia,DV1,61
+Liberia,DV2,45
+Liberia,DV3,45
+Liberia,F11,9
+Liberia,F12,5
+Liberia,F21,3
+Liberia,F22,13
+Liberia,F23,2
+Liberia,F41,1
+Liberia,F43,2
+Liberia,FX1,5
+Liberia,FX2,10
+Liberia,FX3,1
+Liberia,IR1,20
+Liberia,IR2,57
+Liberia,IR4,2
+Liberia,IR5,35
+Liberia,SB1,2
+Libya,CR1,3
+Libya,DV1,1
+Libya,DV2,1
+Libya,DV3,2
+Libya,FX1,1
+Libya,IR1,5
+Libya,IR2,22
+Libya,IR5,6
+Lithuania,CR1,2
+Lithuania,DV1,3
+Lithuania,DV2,1
+Lithuania,DV3,1
+Lithuania,F22,1
+Lithuania,F33,1
+Lithuania,IR1,1
+Lithuania,IR2,1
+Lithuania,IR5,2
+Luxembourg,CR1,1
+Macau,F12,1
+Macau,F24,1
+Macau,F43,2
+Macedonia,CR1,6
+Macedonia,DV1,15
+Macedonia,DV2,12
+Macedonia,DV3,10
+Macedonia,F21,1
+Macedonia,F22,2
+Macedonia,F23,1
+Macedonia,F31,2
+Macedonia,F32,2
+Macedonia,F33,4
+Macedonia,F41,4
+Macedonia,F42,3
+Macedonia,F43,5
+Macedonia,IR1,2
+Macedonia,IR2,3
+Macedonia,IR5,8
+Malawi,IR1,1
+Malawi,IR2,2
+Malaysia,CR1,2
+Malaysia,DV1,1
+Malaysia,DV2,1
+Malaysia,E31,1
+Malaysia,E35,1
+Malaysia,F11,2
+Malaysia,F21,1
+Malaysia,F41,1
+Malaysia,FX2,1
+Malaysia,FX3,1
+Malaysia,IR1,7
+Malaysia,IR2,1
+Malaysia,IR5,4
+Malaysia,IW1,1
+Mali,CR1,1
+Mali,DV1,2
+Mali,E21,1
+Mali,F11,1
+Mali,FX2,2
+Mali,IR1,2
+Mali,IR2,5
+Mali,IR5,4
+Malta,IR1,1
+Mauritania,DV1,3
+Mauritania,IR1,1
+Mauritania,IR2,7
+Mauritania,IR5,1
+Mauritius,DV1,1
+Mauritius,F42,1
+Mexico,CR1,460
+Mexico,CR2,62
+Mexico,CX1,1
+Mexico,E11,1
+Mexico,E13,1
+Mexico,E14,1
+Mexico,E15,2
+Mexico,E31,1
+Mexico,E34,1
+Mexico,E35,3
+Mexico,EW5,2
+Mexico,F11,14
+Mexico,F12,8
+Mexico,F24,39
+Mexico,F25,32
+Mexico,F31,9
+Mexico,F32,9
+Mexico,F33,22
+Mexico,F41,104
+Mexico,F42,60
+Mexico,F43,95
+Mexico,FX1,582
+Mexico,FX2,925
+Mexico,FX3,7
+Mexico,I51,3
+Mexico,I52,1
+Mexico,I53,4
+Mexico,IR1,3374
+Mexico,IR2,770
+Mexico,IR5,958
+Mexico,IW1,6
+Mexico,IW2,5
+Mexico,SU3,1
+Moldova,CR1,1
+Moldova,CR2,1
+Moldova,DV1,89
+Moldova,DV2,40
+Moldova,DV3,27
+Moldova,F11,1
+Moldova,F21,2
+Moldova,F31,3
+Moldova,F32,1
+Moldova,F33,3
+Moldova,F41,1
+Moldova,FX1,2
+Moldova,FX2,1
+Moldova,IR1,2
+Moldova,IR2,1
+Moldova,IR5,8
+Mongolia,DV1,1
+Mongolia,DV2,1
+Mongolia,DV3,2
+Mongolia,E31,1
+Mongolia,IH3,1
+Mongolia,IR1,1
+Mongolia,IR2,1
+Mongolia,IR5,6
+Montenegro,DV1,1
+Montenegro,F41,1
+Montenegro,F42,1
+Montenegro,F43,2
+Montenegro,IR1,2
+Montenegro,IR2,1
+Montenegro,IR5,8
+Morocco,CR1,74
+Morocco,DV1,79
+Morocco,DV2,12
+Morocco,DV3,13
+Morocco,E21,1
+Morocco,E34,1
+Morocco,F11,2
+Morocco,F21,3
+Morocco,F24,2
+Morocco,F41,4
+Morocco,F42,1
+Morocco,F43,2
+Morocco,FX1,1
+Morocco,FX2,1
+Morocco,IR1,28
+Morocco,IR2,9
+Morocco,IR4,2
+Morocco,IR5,38
+Mozambique,FX1,1
+Mozambique,IR5,1
+Namibia,F22,1
+Nepal,CR1,55
+Nepal,CR2,4
+Nepal,DV1,179
+Nepal,DV2,89
+Nepal,DV3,62
+Nepal,E11,2
+Nepal,E14,1
+Nepal,E15,3
+Nepal,F11,1
+Nepal,F21,28
+Nepal,F22,10
+Nepal,F24,5
+Nepal,F31,1
+Nepal,F32,1
+Nepal,F33,1
+Nepal,F41,1
+Nepal,F42,2
+Nepal,F43,3
+Nepal,FX1,21
+Nepal,FX2,18
+Nepal,IR1,12
+Nepal,IR2,7
+Nepal,IR5,87
+Nepal,SB1,1
+Netherlands,CR1,5
+Netherlands,DV1,3
+Netherlands,DV2,2
+Netherlands,DV3,2
+Netherlands,IR1,4
+New Zealand,CR1,1
+New Zealand,DV1,8
+New Zealand,DV2,5
+New Zealand,DV3,6
+New Zealand,E21,1
+New Zealand,F11,1
+New Zealand,F42,1
+New Zealand,IR1,2
+New Zealand,IR5,2
+New Zealand,SB1,1
+Nicaragua,CR1,19
+Nicaragua,CR2,5
+Nicaragua,F11,11
+Nicaragua,F12,10
+Nicaragua,F21,3
+Nicaragua,F22,2
+Nicaragua,F23,4
+Nicaragua,F24,4
+Nicaragua,F25,6
+Nicaragua,F32,1
+Nicaragua,F41,2
+Nicaragua,F42,1
+Nicaragua,FX1,6
+Nicaragua,FX3,3
+Nicaragua,IB3,2
+Nicaragua,IR1,57
+Nicaragua,IR2,38
+Nicaragua,IR3,2
+Nicaragua,IR5,19
+Niger,CR1,3
+Niger,DV1,1
+Niger,F11,1
+Niger,F21,1
+Niger,FX1,1
+Niger,IR1,1
+Niger,IR2,3
+Nigeria,CR1,63
+Nigeria,CR2,8
+Nigeria,E21,3
+Nigeria,E22,2
+Nigeria,E23,5
+Nigeria,E31,2
+Nigeria,E34,2
+Nigeria,E35,1
+Nigeria,F11,13
+Nigeria,F12,9
+Nigeria,F21,13
+Nigeria,F22,3
+Nigeria,F23,5
+Nigeria,F24,15
+Nigeria,F31,4
+Nigeria,F32,3
+Nigeria,F33,8
+Nigeria,F41,18
+Nigeria,F42,6
+Nigeria,F43,16
+Nigeria,FX1,13
+Nigeria,FX2,9
+Nigeria,FX3,5
+Nigeria,I53,1
+Nigeria,IR1,53
+Nigeria,IR2,73
+Nigeria,IR3,20
+Nigeria,IR5,76
+Nigeria,SE1,1
+Nigeria,SE2,1
+Nigeria,SE3,4
+Norway,CR1,4
+Norway,DV1,1
+Norway,DV2,1
+Norway,IR1,3
+Norway,IR2,1
+Oman,CR1,1
+Oman,F43,1
+Oman,IR1,1
+Pakistan,CR1,186
+Pakistan,CR2,2
+Pakistan,E11,1
+Pakistan,E14,1
+Pakistan,E15,2
+Pakistan,E21,2
+Pakistan,E22,2
+Pakistan,E23,2
+Pakistan,E31,2
+Pakistan,E34,2
+Pakistan,E35,6
+Pakistan,F11,19
+Pakistan,F12,2
+Pakistan,F21,19
+Pakistan,F22,6
+Pakistan,F23,4
+Pakistan,F24,16
+Pakistan,F31,10
+Pakistan,F32,10
+Pakistan,F33,25
+Pakistan,F41,75
+Pakistan,F42,67
+Pakistan,F43,152
+Pakistan,FX1,26
+Pakistan,FX2,19
+Pakistan,FX3,9
+Pakistan,IB1,1
+Pakistan,IR1,66
+Pakistan,IR2,60
+Pakistan,IR5,205
+Pakistan,SB1,3
+Pakistan,SE1,4
+Pakistan,SE2,3
+Pakistan,SE3,10
+Panama,CR1,2
+Panama,CR2,1
+Panama,F11,2
+Panama,F12,2
+Panama,F41,6
+Panama,F42,4
+Panama,F43,3
+Panama,FX3,1
+Panama,IR1,2
+Panama,IR2,6
+Panama,IR5,5
+Paraguay,CR1,2
+Paraguay,IR1,3
+Paraguay,IR2,2
+Paraguay,IR5,2
+Peru,CR1,34
+Peru,CR2,12
+Peru,E21,1
+Peru,E22,1
+Peru,E23,1
+Peru,E31,1
+Peru,E34,1
+Peru,E35,1
+Peru,F11,14
+Peru,F12,8
+Peru,F21,8
+Peru,F22,6
+Peru,F23,4
+Peru,F24,17
+Peru,F25,6
+Peru,F31,8
+Peru,F32,7
+Peru,F33,11
+Peru,F41,17
+Peru,F42,6
+Peru,F43,16
+Peru,FX1,12
+Peru,FX2,9
+Peru,FX3,1
+Peru,IB2,1
+Peru,IR1,72
+Peru,IR2,53
+Peru,IR5,85
+Peru,IW1,2
+Peru,SB1,11
+Philippines,CR1,172
+Philippines,CR2,45
+Philippines,E21,7
+Philippines,E22,5
+Philippines,E23,12
+Philippines,E31,53
+Philippines,E32,63
+Philippines,E34,90
+Philippines,E35,128
+Philippines,EW3,1
+Philippines,EW4,3
+Philippines,EW5,8
+Philippines,F11,74
+Philippines,F12,54
+Philippines,F21,57
+Philippines,F22,31
+Philippines,F23,31
+Philippines,F24,171
+Philippines,F25,145
+Philippines,F31,39
+Philippines,F32,34
+Philippines,F33,61
+Philippines,F41,56
+Philippines,F42,29
+Philippines,F43,43
+Philippines,FX1,100
+Philippines,FX2,84
+Philippines,FX3,64
+Philippines,IB3,4
+Philippines,IH4,12
+Philippines,IR1,148
+Philippines,IR2,254
+Philippines,IR5,415
+Philippines,IW1,3
+Philippines,IW2,1
+Philippines,SB1,10
+Philippines,SE1,5
+Philippines,SE2,1
+Philippines,SE3,8
+Poland,CR1,7
+Poland,DV1,17
+Poland,DV2,8
+Poland,DV3,9
+Poland,F11,5
+Poland,F12,6
+Poland,F31,7
+Poland,F32,8
+Poland,F33,16
+Poland,F41,7
+Poland,F42,3
+Poland,F43,7
+Poland,FX1,1
+Poland,FX2,1
+Poland,IH3,12
+Poland,IR1,15
+Poland,IR2,5
+Poland,IR5,5
+Poland,IW1,2
+Poland,IW2,1
+Portugal,DV1,1
+Portugal,DV2,1
+Portugal,DV3,1
+Portugal,F24,1
+Portugal,IR1,5
+Qatar,CR1,1
+Qatar,DV1,1
+Qatar,DV3,1
+Qatar,F24,1
+Qatar,F41,1
+Qatar,F42,1
+Qatar,F43,2
+Qatar,IR2,1
+Romania,CR1,8
+Romania,CR2,1
+Romania,DV1,17
+Romania,DV2,7
+Romania,DV3,7
+Romania,F11,3
+Romania,F24,1
+Romania,F31,3
+Romania,F32,3
+Romania,F33,3
+Romania,F41,1
+Romania,F42,1
+Romania,F43,1
+Romania,FX1,1
+Romania,IR1,12
+Romania,IR2,5
+Romania,IR5,18
+Romania,SB1,1
+Russia,CR1,11
+Russia,CR2,1
+Russia,DV1,84
+Russia,DV2,56
+Russia,DV3,52
+Russia,E11,1
+Russia,E14,1
+Russia,E21,2
+Russia,E22,3
+Russia,E23,4
+Russia,F11,5
+Russia,F12,1
+Russia,F21,1
+Russia,F22,1
+Russia,F24,1
+Russia,F31,2
+Russia,F32,3
+Russia,F41,1
+Russia,F43,2
+Russia,FX1,8
+Russia,FX2,3
+Russia,I51,1
+Russia,I52,1
+Russia,IR1,2
+Russia,IR1,14
+Russia,IR2,7
+Russia,IR5,54
+Russia,SB1,2
+Rwanda,CR1,1
+Rwanda,DV1,9
+Rwanda,DV2,5
+Rwanda,DV3,8
+Rwanda,F21,2
+Rwanda,F22,1
+Rwanda,FX1,1
+Rwanda,IR1,1
+Rwanda,IR5,1
+Saint Kitts and Nevis,CR1,1
+Saint Kitts and Nevis,FX1,1
+Saint Kitts and Nevis,IR2,2
+Saint Lucia,CR1,2
+Saint Lucia,E31,1
+Saint Lucia,E34,1
+Saint Lucia,E35,2
+Saint Lucia,F11,3
+Saint Lucia,F12,2
+Saint Lucia,F22,1
+Saint Lucia,F24,2
+Saint Lucia,F41,2
+Saint Lucia,F42,1
+Saint Lucia,F43,3
+Saint Lucia,FX1,2
+Saint Lucia,IR1,1
+Saint Lucia,IR2,5
+Saint Lucia,IR5,6
+Saint Martin,IR2,1
+Saint Vincent and the Grenadines,CR1,1
+Saint Vincent and the Grenadines,F11,2
+Saint Vincent and the Grenadines,F24,1
+Saint Vincent and the Grenadines,FX2,1
+Samoa,IR3,2
+Samoa,IR5,1
+Saudi Arabia,CR1,10
+Saudi Arabia,CR2,1
+Saudi Arabia,DV1,3
+Saudi Arabia,DV2,1
+Saudi Arabia,DV3,1
+Saudi Arabia,E22,1
+Saudi Arabia,E31,2
+Saudi Arabia,E32,1
+Saudi Arabia,E34,1
+Saudi Arabia,E35,1
+Saudi Arabia,F21,2
+Saudi Arabia,F22,1
+Saudi Arabia,F25,1
+Saudi Arabia,F31,1
+Saudi Arabia,F32,2
+Saudi Arabia,F33,5
+Saudi Arabia,F43,10
+Saudi Arabia,FX1,2
+Saudi Arabia,FX2,13
+Saudi Arabia,FX3,1
+Saudi Arabia,IR1,12
+Saudi Arabia,IR2,7
+Saudi Arabia,IR4,1
+Saudi Arabia,IR5,7
+Senegal,CR1,5
+Senegal,DV1,7
+Senegal,DV2,1
+Senegal,F11,3
+Senegal,F12,3
+Senegal,F21,1
+Senegal,F22,2
+Senegal,F24,1
+Senegal,FX2,3
+Senegal,IR1,3
+Senegal,IR2,27
+Senegal,IR5,5
+Senegal,SB1,1
+Serbia,CR1,5
+Serbia,DV1,11
+Serbia,DV2,10
+Serbia,DV3,11
+Serbia,F31,1
+Serbia,F32,1
+Serbia,F33,4
+Serbia,FX1,1
+Serbia,IR1,1
+Serbia,IR2,1
+Serbia,IR5,4
+Sierra Leone,CR1,10
+Sierra Leone,DV1,41
+Sierra Leone,DV2,11
+Sierra Leone,F11,6
+Sierra Leone,F12,3
+Sierra Leone,F21,1
+Sierra Leone,F22,7
+Sierra Leone,F24,2
+Sierra Leone,FX1,3
+Sierra Leone,FX2,4
+Sierra Leone,IR1,4
+Sierra Leone,IR2,20
+Sierra Leone,IR3,2
+Sierra Leone,IR5,15
+Singapore,CR1,4
+Singapore,DV1,2
+Singapore,DV2,2
+Singapore,DV3,3
+Singapore,F24,1
+Singapore,F41,1
+Singapore,F42,2
+Singapore,F43,1
+Singapore,FX1,1
+Singapore,FX2,1
+Singapore,IR1,3
+Singapore,IR5,1
+Sint Maarten,FX2,1
+Slovakia,CR1,1
+Slovakia,DV1,4
+Slovakia,DV2,2
+Slovakia,DV3,1
+Slovakia,FX1,1
+Slovakia,IR1,1
+Somalia,CR1,18
+Somalia,CR2,3
+Somalia,DV1,5
+Somalia,DV2,2
+Somalia,DV3,2
+Somalia,F11,5
+Somalia,F23,1
+Somalia,F24,1
+Somalia,F31,1
+Somalia,F32,1
+Somalia,F33,2
+Somalia,FX1,3
+Somalia,FX2,6
+Somalia,IR1,23
+Somalia,IR2,74
+Somalia,IR5,24
+South Africa,CR1,10
+South Africa,DV1,11
+South Africa,DV2,8
+South Africa,DV3,14
+South Africa,E15,1
+South Africa,F11,1
+South Africa,IR1,5
+South Africa,IR2,4
+South Africa,IR5,4
+South Sudan,F11,1
+South Sudan,IR1,3
+South Sudan,IR2,1
+South Sudan,IR5,3
+Spain,CR1,9
+Spain,CR2,3
+Spain,DV1,2
+Spain,DV2,2
+Spain,DV3,3
+Spain,E31,1
+Spain,F25,2
+Spain,F32,1
+Spain,F33,3
+Spain,FX2,1
+Spain,IR1,3
+Spain,IR2,1
+Spain,IR5,2
+Sri Lanka,CR1,4
+Sri Lanka,DV1,5
+Sri Lanka,DV2,3
+Sri Lanka,DV3,5
+Sri Lanka,F24,1
+Sri Lanka,F31,1
+Sri Lanka,F32,1
+Sri Lanka,F33,4
+Sri Lanka,F41,2
+Sri Lanka,F42,1
+Sri Lanka,F43,5
+Sri Lanka,FX1,2
+Sri Lanka,FX2,1
+Sri Lanka,IR1,1
+Sri Lanka,IR2,3
+Sri Lanka,IR5,3
+Sudan,CR1,5
+Sudan,CR2,1
+Sudan,DV1,77
+Sudan,DV2,21
+Sudan,DV3,39
+Sudan,F11,2
+Sudan,F21,2
+Sudan,F22,1
+Sudan,FX1,2
+Sudan,FX2,1
+Sudan,IR1,18
+Sudan,IR2,11
+Sudan,IR5,7
+Suriname,CR1,1
+Suriname,F24,1
+Sweden,CR1,6
+Sweden,DV1,2
+Sweden,DV2,1
+Sweden,DV3,2
+Sweden,FX1,1
+Sweden,IR1,5
+Sweden,IR2,1
+Sweden,SB1,1
+Switzerland,CR1,4
+Switzerland,DV1,1
+Switzerland,DV2,1
+Switzerland,IR1,1
+Switzerland,IR2,1
+Switzerland,IR5,1
+Syria,CR1,11
+Syria,DV1,4
+Syria,DV2,2
+Syria,DV3,5
+Syria,F22,1
+Syria,F31,2
+Syria,F32,3
+Syria,F33,3
+Syria,F41,6
+Syria,F42,6
+Syria,F43,12
+Syria,FX1,3
+Syria,FX2,1
+Syria,IR1,11
+Syria,IR2,5
+Syria,IR5,38
+Syria,SE1,2
+Syria,SE2,2
+Syria,SE3,3
+Tajikistan,CR1,1
+Tajikistan,DV1,23
+Tajikistan,DV2,13
+Tajikistan,DV3,25
+Tajikistan,F21,1
+Tajikistan,IR1,1
+Tajikistan,IR2,2
+Tajikistan,IR5,2
+Tanzania,CR1,1
+Tanzania,DV1,2
+Tanzania,DV2,1
+Tanzania,DV3,5
+Tanzania,F24,1
+Tanzania,F41,1
+Tanzania,F42,2
+Tanzania,F43,1
+Tanzania,FX1,2
+Tanzania,FX2,2
+Tanzania,IR1,1
+Tanzania,IR2,8
+Tanzania,IR5,2
+Tanzania,IW1,1
+Tanzania,SB1,1
+Thailand,CR1,27
+Thailand,CR2,6
+Thailand,F11,4
+Thailand,F12,1
+Thailand,F31,1
+Thailand,F33,1
+Thailand,F41,4
+Thailand,F43,3
+Thailand,FX1,1
+Thailand,FX2,7
+Thailand,I51,1
+Thailand,I53,1
+Thailand,IB3,1
+Thailand,IH3,1
+Thailand,IH4,3
+Thailand,IR1,37
+Thailand,IR2,27
+Thailand,IR5,12
+Thailand,IW1,1
+Thailand,SB1,1
+Thailand,SE1,2
+Togo,CR1,3
+Togo,DV1,86
+Togo,DV2,11
+Togo,DV3,13
+Togo,F11,1
+Togo,F21,2
+Togo,FX1,3
+Togo,FX2,2
+Togo,IR1,7
+Togo,IR2,9
+Togo,IR5,8
+Togo,SB1,1
+Tonga,IR1,1
+Trinidad and Tobago,CR1,5
+Trinidad and Tobago,CR2,2
+Trinidad and Tobago,E31,1
+Trinidad and Tobago,F11,13
+Trinidad and Tobago,F12,13
+Trinidad and Tobago,F22,1
+Trinidad and Tobago,F24,2
+Trinidad and Tobago,F25,1
+Trinidad and Tobago,F31,3
+Trinidad and Tobago,F32,3
+Trinidad and Tobago,F33,3
+Trinidad and Tobago,F41,11
+Trinidad and Tobago,F42,9
+Trinidad and Tobago,F43,9
+Trinidad and Tobago,FX2,2
+Trinidad and Tobago,IR1,14
+Trinidad and Tobago,IR2,18
+Trinidad and Tobago,IR5,43
+Trinidad and Tobago,SB1,1
+Tunisia,CR1,5
+Tunisia,DV1,4
+Tunisia,DV2,2
+Tunisia,DV3,2
+Tunisia,E21,1
+Tunisia,IR1,6
+Tunisia,IR5,10
+Turkey,CR1,16
+Turkey,CR2,1
+Turkey,DV1,80
+Turkey,DV2,35
+Turkey,DV3,51
+Turkey,E15,1
+Turkey,E21,1
+Turkey,E22,1
+Turkey,E23,2
+Turkey,F11,2
+Turkey,F21,1
+Turkey,F41,4
+Turkey,F42,3
+Turkey,IR1,10
+Turkey,IR2,7
+Turkey,IR5,25
+Turkmenistan,DV1,5
+Turkmenistan,DV2,2
+Turkmenistan,DV3,3
+Turkmenistan,F11,1
+Turkmenistan,IR1,1
+Turkmenistan,IR5,2
+Uganda,CR1,1
+Uganda,CR2,1
+Uganda,DV1,5
+Uganda,F11,1
+Uganda,F21,1
+Uganda,F22,1
+Uganda,FX1,1
+Uganda,FX2,2
+Uganda,FX3,2
+Uganda,IB2,1
+Uganda,IR1,2
+Uganda,IR2,10
+Uganda,IR4,6
+Uganda,IR5,8
+Ukraine,CR1,22
+Ukraine,CR2,5
+Ukraine,DV1,102
+Ukraine,DV2,69
+Ukraine,DV3,59
+Ukraine,E21,1
+Ukraine,E22,1
+Ukraine,F11,5
+Ukraine,F12,4
+Ukraine,F21,6
+Ukraine,F22,6
+Ukraine,F24,1
+Ukraine,F25,1
+Ukraine,F31,6
+Ukraine,F32,8
+Ukraine,F33,7
+Ukraine,F41,11
+Ukraine,F42,9
+Ukraine,F43,8
+Ukraine,FX1,13
+Ukraine,FX2,12
+Ukraine,IR1,12
+Ukraine,IR2,20
+Ukraine,IR3,8
+Ukraine,IR4,2
+Ukraine,IR5,64
+Ukraine,SB1,1
+United Arab Emirates,CR1,7
+United Arab Emirates,E21,1
+United Arab Emirates,E31,1
+United Arab Emirates,E34,1
+United Arab Emirates,E35,7
+United Arab Emirates,F11,7
+United Arab Emirates,F43,5
+United Arab Emirates,FX1,1
+United Arab Emirates,FX2,4
+United Arab Emirates,FX3,3
+United Arab Emirates,I53,2
+United Arab Emirates,IR1,6
+United Arab Emirates,IR2,15
+United Arab Emirates,SE3,3
+United Arab Emirates,SQ3,5
+Uruguay,FX1,1
+Uruguay,IR2,2
+Uruguay,IR5,5
+Uzbekistan,CR1,4
+Uzbekistan,DV1,129
+Uzbekistan,DV2,105
+Uzbekistan,DV3,154
+Uzbekistan,F11,1
+Uzbekistan,F21,8
+Uzbekistan,F22,6
+Uzbekistan,F23,1
+Uzbekistan,F24,2
+Uzbekistan,F25,1
+Uzbekistan,F41,1
+Uzbekistan,F43,1
+Uzbekistan,FX1,18
+Uzbekistan,FX2,15
+Uzbekistan,FX3,4
+Uzbekistan,IR1,2
+Uzbekistan,IR2,8
+Uzbekistan,IR5,12
+Uzbekistan,SB1,2
+Uzbekistan,SE1,1
+Uzbekistan,SE2,1
+Uzbekistan,SE3,2
+Venezuela,CR1,11
+Venezuela,CR2,4
+Venezuela,DV1,36
+Venezuela,DV2,23
+Venezuela,DV3,25
+Venezuela,E11,7
+Venezuela,E14,7
+Venezuela,E15,4
+Venezuela,E22,1
+Venezuela,E23,2
+Venezuela,E31,1
+Venezuela,E34,1
+Venezuela,F11,11
+Venezuela,F12,3
+Venezuela,F21,1
+Venezuela,F22,12
+Venezuela,F24,4
+Venezuela,F25,5
+Venezuela,F31,3
+Venezuela,F32,6
+Venezuela,F33,8
+Venezuela,F41,2
+Venezuela,F42,1
+Venezuela,F43,1
+Venezuela,FX1,1
+Venezuela,IR1,20
+Venezuela,IR2,12
+Venezuela,IR5,68
+Vietnam,AM1,1
+Vietnam,AM2,2
+Vietnam,CR1,180
+Vietnam,CR2,29
+Vietnam,F11,80
+Vietnam,F12,34
+Vietnam,F21,87
+Vietnam,F22,23
+Vietnam,F23,37
+Vietnam,F24,119
+Vietnam,F25,16
+Vietnam,F31,145
+Vietnam,F32,138
+Vietnam,F33,229
+Vietnam,F41,186
+Vietnam,F42,141
+Vietnam,F43,296
+Vietnam,FX1,105
+Vietnam,FX2,34
+Vietnam,FX3,57
+Vietnam,I51,17
+Vietnam,I52,15
+Vietnam,I53,34
+Vietnam,IH3,1
+Vietnam,IR1,76
+Vietnam,IR2,69
+Vietnam,IR5,476
+Vietnam,IW1,2
+Vietnam,IW2,2
+Vietnam,SE1,9
+Vietnam,SE2,7
+Vietnam,SE3,14
+Vietnam,T51,1
+Vietnam,T52,1
+Vietnam,T53,2
+Yemen,CR1,8
+Yemen,DV1,8
+Yemen,DV2,4
+Yemen,DV3,11
+Yemen,F11,8
+Yemen,F12,4
+Yemen,F21,2
+Yemen,F22,2
+Yemen,F24,6
+Yemen,F31,12
+Yemen,F32,10
+Yemen,F33,36
+Yemen,F41,5
+Yemen,F42,2
+Yemen,F43,13
+Yemen,FX1,17
+Yemen,FX2,56
+Yemen,IR1,117
+Yemen,IR2,105
+Yemen,IR5,20
+Yemen,IW1,1
+Yemen,IW2,1
+Yemen,SE1,1
+Yemen,SE2,1
+Yemen,SE3,5
+Zambia,CR1,1
+Zambia,DV1,1
+Zambia,F42,1
+Zambia,F43,1
+Zambia,IR1,2
+Zambia,IR2,1
+Zimbabwe,DV1,2
+Zimbabwe,DV2,2
+Zimbabwe,DV3,4
+Zimbabwe,IR2,1
+Zimbabwe,IR5,4

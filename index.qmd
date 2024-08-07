@@ -15,6 +15,7 @@ library(tidybayes)
 library(brms)
 library(gtsummary)
 library(plotly)
+library(dplyr)
 
 x <- read_csv("data/Visa_data.csv")
 x <- x |> mutate(Number = as.integer(Number)) |> drop_na() |> select(Country, Number) |> 
@@ -36,30 +37,22 @@ fit_immigration <- brm(formula = Number ~ Country, data = x, family = gaussian()
   warmup = 1000)
 ```
 
-```{r}
-#| label: table
-#tbl_regression(fit_immigration)
-
-```
 
 ```{r}
 
-Country <- factor(c("Albania", "Algeria", "Angola", "AntiguaandBarbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "BosniaandHerzegovina", "Botswana", "Brazil", "BritishVirginIslands", "Bulgaria", "BurkinaFaso", "Burma", "Burundi", "CaboVerde", "Cambodia", "Cameroon", "Canada", "CaymanIslands", "CentralAfricanRepublic", "Chad", "Chile", "ChinaMMainland", "ChinaMTaiwan", "Colombia", "Comoros", "Congo", "CostaRica", "CotedIvoire", "Croatia", "Cuba", "Curacao", "Cyprus", "CzechRepublic", "Denmark", "Djibouti", "Dominica", "DominicanRepublic", "Ecuador", "Egypt", "ElSalvador", "EquatorialGuinea", "Eritrea", "Estonia", "Ethiopia", "Fiji", "Finland", "France", "Gabon", "GambiaThe", "Georgia", "Germany", "Ghana", "GreatBritainandNorthernIreland", "Greece", "Grenada", "Guatemala", "Guinea", "GuineaMBissau", "Guyana", "Haiti", "Honduras", "HongKong", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "KoreaSouth", "Kosovo", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Liberia", "Libya", "Lithuania", "Luxembourg", "Macau", "Macedonia", "Malawi", "Malaysia", "Mali", "Malta", "Mauritania", "Mauritius", "Mexico", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "NewZealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Panama", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda", "SaintKittsandNevis", "SaintLucia", "SaintMartin", "SaintVincentandtheGrenadines", "Samoa", "SaudiArabia", "Senegal", "Serbia", "SierraLeone", "Singapore", "SintMaarten", "Slovakia", "Somalia", "SouthAfrica", "SouthSudan", "Spain", "SriLanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tonga", "TrinidadandTobago", "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine", "UnitedArabEmirates", "Uruguay", "Uzbekistan", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"), levels = levels_country)
+Country <- factor(c("Afghanistan", "Albania", "Algeria", "Angola", "AntiguaandBarbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "BosniaandHerzegovina", "Botswana", "Brazil", "BritishVirginIslands", "Bulgaria", "BurkinaFaso", "Burma", "Burundi", "CaboVerde", "Cambodia", "Cameroon", "Canada", "CaymanIslands", "CentralAfricanRepublic", "Chad", "Chile", "ChinaMMainland", "ChinaMTaiwan", "Colombia", "Comoros", "Congo", "CostaRica", "CotedIvoire", "Croatia", "Cuba", "Curacao", "Cyprus", "CzechRepublic", "Denmark", "Djibouti", "Dominica", "DominicanRepublic", "Ecuador", "Egypt", "ElSalvador", "EquatorialGuinea", "Eritrea", "Estonia", "Ethiopia", "Fiji", "Finland", "France", "Gabon", "GambiaThe", "Georgia", "Germany", "Ghana", "GreatBritainandNorthernIreland", "Greece", "Grenada", "Guatemala", "Guinea", "GuineaMBissau", "Guyana", "Haiti", "Honduras", "HongKong", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "KoreaSouth", "Kosovo", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Liberia", "Libya", "Lithuania", "Luxembourg", "Macau", "Macedonia", "Malawi", "Malaysia", "Mali", "Malta", "Mauritania", "Mauritius", "Mexico", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "NewZealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Panama", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda", "SaintKittsandNevis", "SaintLucia", "SaintMartin", "SaintVincentandtheGrenadines", "Samoa", "SaudiArabia", "Senegal", "Serbia", "SierraLeone", "Singapore", "SintMaarten", "Slovakia", "Somalia", "SouthAfrica", "SouthSudan", "Spain", "SriLanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tonga", "TrinidadandTobago", "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine", "UnitedArabEmirates", "Uruguay", "Uzbekistan", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"), levels = levels_country)
 
-ndata <- expand_grid(Country)
-ndata_small <- ndata %>% slice(1:20) 
+ndata <- expand_grid(Country) 
+pred_data <- fit_immigration |>
+  add_epred_draws(newdata = ndata) |>
+  group_by(Country) |>
+  summarize(predicted_value = mean(.epred)) |>
+  filter(!is.na(Country))
 
+p <- ggplot(pred_data, aes(x = Country, y = predicted_value, fill = Country)) +  geom_bar(stat = "identity", position = "dodge") +  theme(legend.position = "none") + labs(x = "Country", y = "Predicted Value", title = "Predicted Values by Country") + theme(axis.text.x = element_blank())
 
-plot <- fit_immigration |> add_epred_draws(newdata = ndata) |>
-  ggplot(aes(x = Country, y = .epred, fill = Country)) + geom_bar(stat = "identity", position = "dodge")+ 
-  theme(legend.position = "none") +  
-  labs(x = "Country", y = "Predicted Value", title = "Predicted Values by Country") 
-  
-
-plot
-
-#ggplotly(plot, tooltip = c("x")) 
+ggplotly(p, tooltip = c("x", "y"))
 ```
 
 
-The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data were then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is displayed here. I modeled an probability variable, a function of the origin of the person asking for the Visa. Different places from all around the world have different acceptance rates for visas.
+The following data were extracted from the US Census Bureau which detailed Visas that were given out and the country of origin of the person to which the Visa was given. The data were then fitted into a gaussian model to allow for predictions based on the country of origin of any given person. Each country had different amounts of Visas given out which affected their probability value. Finally a plot was made with the fitted model that is summarized and grouped by country and then is displayed here. I modeled an probability variable, a function of the origin of the person asking for the Visa. Mexico Is far and away the highest accepter of US visas out of every country in the world.
