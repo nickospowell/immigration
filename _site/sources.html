@@ -227,7 +227,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/a8099e3f-82fe-4c90-94fb-3b984ac23ad2\.netlify\.app\/");
+      var filterRegex = new RegExp("https:\/\/nosp41\.quarto\.pub\/immigration");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
